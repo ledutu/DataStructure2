@@ -1,3 +1,6 @@
+import java.lang.Integer;
+import java.lang.String;
+
 public class AVL {
     Node x;
 
