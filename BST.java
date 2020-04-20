@@ -1,5 +1,3 @@
-package lab1;
-
 import java.lang.Integer;
 import java.lang.String;
 
